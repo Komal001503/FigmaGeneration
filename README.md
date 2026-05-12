@@ -3,7 +3,19 @@
 An intelligent agent that generates Figma designs from Word document uploads.
 
 ## Overview
-This project automatically converts Word (.docx) files into professional Figma designs, preserving document structure, formatting, and styling.
+Upload a Word file (.docx) and automatically generate professional Figma designs based on the document's content, structure, and formatting.
 
-## Setup Instructions
+## Setup
 Coming soon...
+
+## Usage
+Coming soon...
+
+## Features
+- Word document parsing
+- Automatic Figma design generation
+- Preserves formatting and structure
+- Figma API integration
+
+## License
+MIT
